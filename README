@@ -1,0 +1,21 @@
+####################################
+# Project Title: 	Bodega Trifolium Strain Collection 2017
+# Project Owner:	Friesen
+# Date Conceived: 	
+# Date Work Began:	May 2017
+# Last Updated:		September 2017
+####################################
+
+Subfolders for every project are:
+	bin : binaries (external code)
+	data : DATA!
+	doc : documentation
+	results: RESULTS!
+	src : source code (scripts, etc.)
+Within these folders, subfolders are arranged by date. 
+
+Scientific Rationale:
+Anticipated Outcomes:
+Goals:
+Approaches:
+
