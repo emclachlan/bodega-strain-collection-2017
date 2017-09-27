@@ -1,0 +1,18 @@
+#This code explains how to choose heatmap colors using RColorBrewer package
+
+#Step1: Install RColorBrewer
+install.packages("RColorBrewer")
+
+#Step2: Load package and check out options
+library(RColorBrewer)
+display.brewer.all()
+display.brewer.pal()
+
+#Step3: Once you've chosen a palette you like, make it a variable
+darkcols <- brewer.pal(8, "Dark2")
+#the "8" is the number of colors from the palette I want
+#the "Dark2" is the chosen palettes name in the package
+
+#Step4: Add palette variable to heatmap
+MyHeatmap = heatmap(Heatmap.Matrix, col=darkcols)
+
