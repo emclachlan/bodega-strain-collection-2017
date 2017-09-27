@@ -1,0 +1,10 @@
+#Step1: read in table (stored as .csv) to R
+#Hint: when making the table, do not include column/row names - it confuses the computer
+HeatmapTable=read.table("./Documents/TrifoliumDimensions/BodegaCollection2017/BTC17_heatmap_table.csv", col.names=c("Bar","Bif","Fuc","Gra","Mac","Mdn","Mlm","Wil"), row.names=c("C0","C1","C2","C3","C4","C5","C6","C7"),)
+
+#Step2: turn your table into a matrix
+Heatmap.Matrix <- data.matrix(HeatmapTable)
+
+#Step3: this runs the heatmap module in R.
+FinalHeatMap=heatmap(Heatmap.Matrix)
+
