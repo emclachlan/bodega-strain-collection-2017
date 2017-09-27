@@ -1,0 +1,42 @@
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Sep 10 2017, 21:36:24
+Command:
+         /home/oasis/data/NGS-ann-project/apps/cd-hit/cd-hit-est
+         -i 1505516444.fas.0 -d 0 -o 1505516444.fas.1 -c 1.0 -n
+         10 -l 11 -r 0 -G 1 -g 1 -b 20 -s 0.0 -aL 0.0 -aS 0.0
+         -T 4 -M 32000
+
+Started: Fri Sep 15 23:00:47 2017
+================================================================
+                            Output                              
+----------------------------------------------------------------
+Warning: total number of CPUs in the system is 2
+Actual number of CPUs to be used: 2
+
+total seq: 164
+longest and shortest : 604 and 21
+Total letters: 91922
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 2 X 12M = 24M
+Table           : 2 X 16M = 33M
+Miscellaneous   : 0M
+Total           : 58M
+
+Table limit with the given memory limit:
+Max number of representatives: 4000000
+Max number of word counting entries: 3992747189
+
+# comparing sequences from          0  to        164
+---------- new table with       33 representatives
+
+      164  finished         33  clusters
+
+Apprixmated maximum memory consumption: 58M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.08

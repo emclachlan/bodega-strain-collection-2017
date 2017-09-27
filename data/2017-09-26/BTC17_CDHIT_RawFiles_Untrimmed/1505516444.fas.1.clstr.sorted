@@ -1,0 +1,197 @@
+>Cluster 0
+0	582nt, >BTC17_nodC_1_A07_will_will69_AK3011T... at +/100.00%
+1	481nt, >BTC17_nodC_1_A08_will_will69_AK3012T... at +/100.00%
+2	582nt, >BTC17_nodC_1_A09_will_will69_AK3014T... at +/100.00%
+3	578nt, >BTC17_nodC_1_B08_bif_bif158_AK3027T... at +/100.00%
+4	573nt, >BTC17_nodC_1_C02_bar_barbA_AK3035T... at +/100.00%
+5	580nt, >BTC17_nodC_1_C06_bar_barbA_AK3039T... at +/100.00%
+6	573nt, >BTC17_nodC_1_D05_bif_BifA_AK3053T... at +/100.00%
+7	573nt, >BTC17_nodC_1_E05_bar_354_AK3073T... at +/100.00%
+8	580nt, >BTC17_nodC_1_E07_bar_354_AK3075T... at +/100.00%
+9	578nt, >BTC17_nodC_1_H04_mac_129_AK3118T... at +/100.00%
+10	583nt, >BTC17_nodC_2_A02_fuc_364_AK3129T... at +/100.00%
+11	583nt, >BTC17_nodC_2_A03_fuc_364_AK3130T... at +/100.00%
+12	575nt, >BTC17_nodC_2_A10_mdn_349_AK3137T... at +/100.00%
+13	498nt, >BTC17_nodC_2_A12_mdn_349_AK3140T... at +/100.00%
+14	537nt, >BTC17_nodC_2_B02_mdn_349_AK3142T... at +/100.00%
+15	538nt, >BTC17_nodC_2_B03_mdn_349_AK3143T... at +/100.00%
+16	528nt, >BTC17_nodC_2_B12_bar_111_AK3154T... at +/100.00%
+17	586nt, >BTC17_nodC_2_C01_bar_111_AK3155T... at +/100.00%
+18	531nt, >BTC17_nodC_2_C02_bar_111_AK3158T... at +/100.00%
+19	581nt, >BTC17_nodC_2_C03_bar_111_AK3159T... at +/100.00%
+20	531nt, >BTC17_nodC_2_C05_mlm_363_AK3163T... at +/100.00%
+21	593nt, >BTC17_nodC_2_C06_mlm_363_AK3164T... at +/100.00%
+22	578nt, >BTC17_nodC_2_C07_mlm_363_AK3166T... at +/100.00%
+23	586nt, >BTC17_nodC_2_C08_gra_348_AK3167T... at +/100.00%
+24	571nt, >BTC17_nodC_2_D02_gra_348_AK3174T... at +/100.00%
+25	593nt, >BTC17_nodC_2_D04_gra_348_AK3177T... at +/100.00%
+26	588nt, >BTC17_nodC_2_D07_bar_380_AK3180T... at +/100.00%
+27	583nt, >BTC17_nodC_2_D08_bar_380_AK3182T... at +/100.00%
+28	597nt, >BTC17_nodC_2_D09_bar_380_AK3183T... *
+29	596nt, >BTC17_nodC_2_D11_bar_380_AK3185T... at +/100.00%
+30	582nt, >BTC17_nodC_2_E01_bar_380_AK3187T... at +/100.00%
+31	583nt, >BTC17_nodC_2_E03_mac_377_AK3190T... at +/100.00%
+32	538nt, >BTC17_nodC_2_F04_fuc_191_AK3219T... at +/100.00%
+33	582nt, >BTC17_nodC_2_F12_fuc_174_AK3233T... at +/100.00%
+34	429nt, >BTC17_nodC_2_G01_fuc_174_AK3234T... at +/100.00%
+35	578nt, >BTC17_nodC_2_G02_fuc_174_AK3235T... at +/100.00%
+36	530nt, >BTC17_nodC_2_G03_fuc_174_AK3236T... at +/100.00%
+37	594nt, >BTC17_nodC_2_G04_fuc_174_AK3237T... at +/100.00%
+38	595nt, >BTC17_nodC_2_G05_fuc_174_AK3238T... at +/100.00%
+39	587nt, >BTC17_nodC_2_G06_fuc_174_AK3239T... at +/100.00%
+40	583nt, >BTC17_nodC_2_G07_fuc_174_AK3240T... at +/100.00%
+41	583nt, >BTC17_nodC_2_G08_fuc_174_AK3241T... at +/100.00%
+42	582nt, >BTC17_nodC_2_G09_fuc_174_AK3242T... at +/100.00%
+43	585nt, >BTC17_nodC_2_G10_bar_145_AK3243T... at +/100.00%
+44	593nt, >BTC17_nodC_2_G11_bar_145_AK3244T... at +/100.00%
+45	572nt, >BTC17_nodC_2_G12_bar_145_AK3245T... at +/100.00%
+46	457nt, >BTC17_nodC_2_H01_bar_145_AK3246T... at +/100.00%
+47	580nt, >BTC17_nodC_2_H03_bar_145_AK3248T... at +/100.00%
+48	581nt, >BTC17_nodC_2_H04_bar_145_AK3249T... at +/100.00%
+49	564nt, >BTC17_nodC_2_H06_bar_145_AK3251T... at +/100.00%
+>Cluster 1
+0	575nt, >BTC17_nodC_1_A03_mac_bif181_AK3003T... at +/100.00%
+1	22nt, >BTC17_nodC_1_A06_bif_bif181_AK3008T... at +/100.00%
+2	600nt, >BTC17_nodC_1_A12_mdn_mdon67_AK3018T... at +/100.00%
+3	561nt, >BTC17_nodC_1_B01_mdn_mdon67_AK3019T... at +/100.00%
+4	575nt, >BTC17_nodC_1_B02_mdn_mdon67_AK3020T... at +/100.00%
+5	572nt, >BTC17_nodC_1_B03_mdn_mdon67_AK3021T... at +/100.00%
+6	575nt, >BTC17_nodC_1_B04_mdn_mdon67_AK3022T... at +/100.00%
+7	569nt, >BTC17_nodC_1_C01_bif_bif158_AK3034T... at +/100.00%
+8	570nt, >BTC17_nodC_1_C09_gra_graA_AK3042T... at +/100.00%
+9	579nt, >BTC17_nodC_1_C11_gra_GraA_AK3044T... at +/100.00%
+10	559nt, >BTC17_nodC_1_C12_gra_GraA_AK3046T... at +/100.00%
+11	573nt, >BTC17_nodC_1_D01_gra_GraA_AK3047T... at +/100.00%
+12	573nt, >BTC17_nodC_1_D02_gra_GraA_AK3048T... at +/100.00%
+13	578nt, >BTC17_nodC_1_D03_gra_GraA_AK3050T... at +/100.00%
+14	574nt, >BTC17_nodC_1_D11_dub_dubA_AK3061T... at +/100.00%
+15	579nt, >BTC17_nodC_1_E11_bif_163_AK3079T... at +/100.00%
+16	570nt, >BTC17_nodC_1_G05_mlm_105_AK3104T... at +/100.00%
+17	570nt, >BTC17_nodC_1_G06_mlm_105_AK3105T... at +/100.00%
+18	564nt, >BTC17_nodC_1_H02_fuc_144_AK3116T... at +/100.00%
+19	575nt, >BTC17_nodC_1_H03_mac_129_AK3117T... at +/100.00%
+20	573nt, >BTC17_nodC_1_H05_mac_129_AK3119T... at +/100.00%
+21	562nt, >BTC17_nodC_1_H07_mac_129_AK3122T... at +/100.00%
+22	560nt, >BTC17_nodC_1_H09_mac_129_AK3124T... at +/100.00%
+23	520nt, >BTC17_nodC_1_H11_mac_129_AK3126T... at +/100.00%
+24	520nt, >BTC17_nodC_1_H12_mac_129_AK3127TCAGCGACAGCCATTGCGTATAACCTAGAGCCGCCGCGACCATGCCTATAC... at +/100.00%
+25	594nt, >BTC17_nodC_2_B10_mdn_147_AK3151T... at +/100.00%
+26	21nt, >BTC17_nodC_2_C04_mlm_363_AK3160T... at +/100.00%
+27	574nt, >BTC17_nodC_2_C11_gra_348_AK3170T... at +/100.00%
+28	587nt, >BTC17_nodC_2_D03_gra_348_AK3176T... at +/100.00%
+29	590nt, >BTC17_nodC_2_E07_mdn_376_AK3196T... at +/100.00%
+30	604nt, >BTC17_nodC_2_F05_fuc_191_AK3220T... *
+31	586nt, >BTC17_nodC_2_F06_fuc_191_AK3221T... at +/100.00%
+32	594nt, >BTC17_nodC_2_F09_gra_176_AK3230T... at +/100.00%
+33	586nt, >BTC17_nodC_2_F11_gra_176_AK3232T... at +/100.00%
+34	575nt, >BTC17_nodC_2_H02_bar_145_AK3247T... at +/100.00%
+35	513nt, >BTC17_nodC_2_H05_bar_145_AK3250T... at +/100.00%
+>Cluster 2
+0	566nt, >BTC17_nodC_1_A01_mac_bif181_AK3001T... at +/100.00%
+1	584nt, >BTC17_nodC_1_A02_mac_bif181_AK3002T... at +/100.00%
+2	574nt, >BTC17_nodC_1_A04_mac_bif181_AK3004T... at +/100.00%
+3	572nt, >BTC17_nodC_1_B12_bif_bif158_AK3031T... at +/100.00%
+4	578nt, >BTC17_nodC_1_F03_bif_163_AK3085T... at +/100.00%
+5	570nt, >BTC17_nodC_1_F06_bif_163_AK3088T... at +/100.00%
+6	580nt, >BTC17_nodC_1_F07_bif_102_AK3089T... at +/100.00%
+7	570nt, >BTC17_nodC_1_F12_bif_102_AK3094T... at +/100.00%
+8	570nt, >BTC17_nodC_1_G01_bif_102_AK3096T... at +/100.00%
+9	551nt, >BTC17_nodC_1_G02_bif_102_AK3097T... at +/100.00%
+10	572nt, >BTC17_nodC_1_G04_mlm_105_AK3103T... at +/100.00%
+11	564nt, >BTC17_nodC_1_G08_mlm_105_AK3107T... at +/100.00%
+12	574nt, >BTC17_nodC_1_H06_mac_129_AK3121T... at +/100.00%
+13	561nt, >BTC17_nodC_2_A07_mdn_349_AK3134T... at +/100.00%
+14	582nt, >BTC17_nodC_2_A11_mdn_349_AK3139T... at +/100.00%
+15	556nt, >BTC17_nodC_2_B05_mdn_147_AK3145T... at +/100.00%
+16	587nt, >BTC17_nodC_2_B06_mdn_147_AK3146T... at +/100.00%
+17	594nt, >BTC17_nodC_2_B09_mdn_147_AK3150T... *
+18	572nt, >BTC17_nodC_2_D12_bar_380_AK3186T... at +/100.00%
+>Cluster 3
+0	571nt, >BTC17_nodC_1_C04_bar_barbA_AK3037T... at +/100.00%
+1	579nt, >BTC17_nodC_1_D09_bif_bifA_AK3057T... at +/100.00%
+2	575nt, >BTC17_nodC_1_E09_bar_354_AK3077T... at +/100.00%
+3	581nt, >BTC17_nodC_1_E10_bar_354_AK3078T... at +/100.00%
+4	419nt, >BTC17_nodC_1_E12_bif_163_AK3080T... at +/100.00%
+5	574nt, >BTC17_nodC_2_A05_fuc_364_AK3132T... at +/100.00%
+6	584nt, >BTC17_nodC_2_A09_mdn_349_AK3136T... at +/100.00%
+7	594nt, >BTC17_nodC_2_E10_fuc_319_AK3204T... *
+>Cluster 4
+0	576nt, >BTC17_nodC_1_B07_bif_bif158_AK3026T... at +/100.00%
+1	581nt, >BTC17_nodC_1_C03_bar_barbA_AK3036T... *
+2	550nt, >BTC17_nodC_1_E06_bar_354_AK3074T... at +/100.00%
+3	579nt, >BTC17_nodC_1_F04_bif_163_AK3086T... at +/100.00%
+4	550nt, >BTC17_nodC_1_F05_bif_163_AK3087T... at +/100.00%
+5	574nt, >BTC17_nodC_1_F08_bif_102_AK3090T... at +/100.00%
+6	575nt, >BTC17_nodC_1_G10_mlm_105_AK3110T... at +/100.00%
+>Cluster 5
+0	573nt, >BTC17_nodC_1_B09_bif_bif158_AK3028T... at +/100.00%
+1	580nt, >BTC17_nodC_1_D06_bif_bifA_AK3054T... at +/100.00%
+2	573nt, >BTC17_nodC_1_D07_bif_bifA_AK3055T... at +/100.00%
+3	531nt, >BTC17_nodC_2_B04_mdn_147_AK3144T... at +/100.00%
+4	594nt, >BTC17_nodC_2_B07_mdn_147_AK3147T... *
+5	593nt, >BTC17_nodC_2_B08_mdn_147_AK3149T... at +/100.00%
+>Cluster 6
+0	575nt, >BTC17_nodC_1_B10_bif_bif158_AK3029T... at +/100.00%
+1	579nt, >BTC17_nodC_1_C10_gra_GraA_AK3043T... at +/100.00%
+2	581nt, >BTC17_nodC_1_G07_mlm_105_AK3106T... at +/100.00%
+3	550nt, >BTC17_nodC_1_H10_mac_129_AK3125T... at +/100.00%
+4	583nt, >BTC17_nodC_2_F08_gra_176_AK3229T... *
+>Cluster 7
+0	594nt, >BTC17_nodC_2_A04_fuc_364_AK3131T... *
+1	578nt, >BTC17_nodC_2_B01_mdn_349_AK3141T... at +/100.00%
+2	594nt, >BTC17_nodC_2_C09_gra_348_AK3168T... at +/100.00%
+3	586nt, >BTC17_nodC_2_E05_mdn_376_AK3194T... at +/100.00%
+>Cluster 8
+0	581nt, >BTC17_nodC_1_B06_bif_bif158_AK3025T... *
+1	574nt, >BTC17_nodC_1_D08_bif_bifA_AK3056T... at +/100.00%
+2	563nt, >BTC17_nodC_1_E01_dub_dubA_AK3067T... at +/100.00%
+>Cluster 9
+0	574nt, >BTC17_nodC_1_G03_mlm_105_AK3102T... at +/100.00%
+1	575nt, >BTC17_nodC_1_G11_fuc_144_AK3112T... *
+>Cluster 10
+0	524nt, >BTC17_nodC_1_D10_dub_dubA_AK3058T... at +/100.00%
+1	562nt, >BTC17_nodC_1_E04_dub_dubA_AK3072T... *
+>Cluster 11
+0	594nt, >BTC17_nodC_2_D06_bar_380_AK3179T... *
+>Cluster 12
+0	593nt, >BTC17_nodC_2_D05_bar_380_AK3178T... *
+>Cluster 13
+0	586nt, >BTC17_nodC_2_E04_mdn_376_AK3191T... *
+>Cluster 14
+0	582nt, >BTC17_nodC_1_B11_bif_bif158_AK3030T... *
+>Cluster 15
+0	582nt, >BTC17_nodC_1_D12_dub_dubA_AK3062T... *
+>Cluster 16
+0	581nt, >BTC17_nodC_1_E03_dub_dubA_AK3071T... *
+>Cluster 17
+0	579nt, >BTC17_nodC_1_C08_gra_graA_AK3041T... *
+>Cluster 18
+0	575nt, >BTC17_nodC_1_F11_bif_102_AK3093T... *
+>Cluster 19
+0	574nt, >BTC17_nodC_1_A10_will_will69_AK3016T... *
+>Cluster 20
+0	574nt, >BTC17_nodC_1_H08_mac_129_AK3123T... *
+>Cluster 21
+0	573nt, >BTC17_nodC_1_C07_bar_barbA_AK3040T... *
+>Cluster 22
+0	573nt, >BTC17_nodC_1_F10_bif_102_AK3092T... *
+>Cluster 23
+0	571nt, >BTC17_nodC_1_C05_bar_barbA_AK3038T... *
+>Cluster 24
+0	569nt, >BTC17_nodC_1_F01_bif_163_AK3082T... *
+>Cluster 25
+0	562nt, >BTC17_nodC_1_E02_dub_dubA_AK3070T... *
+>Cluster 26
+0	558nt, >BTC17_nodC_1_G09_mlm_105_AK3108T... *
+>Cluster 27
+0	538nt, >BTC17_nodC_2_F07_gra_176_AK3225T... *
+>Cluster 28
+0	519nt, >BTC17_nodC_2_B11_mdn_147_AK3152T... *
+>Cluster 29
+0	488nt, >BTC17_nodC_1_A11_mdn_mdon67_AK3017T... *
+>Cluster 30
+0	488nt, >BTC17_nodC_1_G12_fuc_144_AK3113T... *
+>Cluster 31
+0	472nt, >BTC17_nodC_2_C10_gra_348_AK3169T... *
+>Cluster 32
+0	449nt, >BTC17_nodC_2_A06_fuc_364_AK3133T... *
