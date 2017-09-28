@@ -1,0 +1,12 @@
+#Running Clustal on the HPCC
+
+module load ClustalO/1.1.0
+
+clustalo -i my-seqfile.fa -o my-outputfile.fa -v
+
+
+#this provides a simple output in fasta format, which is the default
+#there are MANY other output formats that can be chosen, just go to --help
+#Clustal can also provide clustering, and a guidetree as output. 
+
+
