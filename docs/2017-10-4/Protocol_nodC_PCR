@@ -1,0 +1,28 @@
+NodC PCR Protocol
+
+Master Mix Recipe
+Step	Reagent		Amount x1	Amount x96	Actual x96
+1	H2O			10.0ul		960ul		1100ul
+2	Buffer		02.0ul		192ul		220ul
+3	Primers		02.0ul		192ul		220ul
+4	dNTPs		00.8ul		76.8ul		88ul
+5	DreamTaq		00.2ul		19.2ul		22ul
+
+*Actual 96 gives us alittle wiggle room, so we don't run out of master mix
+
+Add 15ul of master mix to 3ul of sample DNA
+Pipette up and down to mix
+Firmly place plate seal, making sure there are no air bubbles
+Move on to Thermocycle Instructions
+
+Thermocycle Instructions
+Step	Temperature	Time
+1	95C		5:00
+2	95C		0:30
+3	51C		0:30
+4	72C		1:00
+5	Go to 2, 34x
+6	72C		3:00
+7	4C		hold
+
+Can store @ -20C until ready to continue
